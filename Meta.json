@@ -1,0 +1,9 @@
+{
+  "chainId": 103,
+  "address": "TOKEN_ADDRESS",
+  "symbol": "MMM",
+  "name": "Mavrodi",
+  "decimals": 16,
+  "image": "https://drive.google.com/file/d/1sgr_ZhsyGKWwO8aAxyUXgPsNXr3EYNEZ/view?usp=sharing",
+  "tags": ["MMM", "Mavrodi"]
+}
